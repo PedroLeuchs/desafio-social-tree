@@ -1,0 +1,224 @@
+:root {
+    --body-bg-color: #FAF7FD;
+    --purple: #BB99DD;
+    
+  }
+  body{
+    margin: 0px;
+    position: relative;
+
+
+background: #FAF7FD;
+overflow-y: hidden;
+overflow-x: hidden;
+
+  }
+/*parte da foto*/
+  .foto{
+    
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    left: 619px;
+    top: 10px;
+
+  }
+
+  .moldura{
+    box-sizing: border-box;
+
+position: absolute;
+width: 213px;
+height: 213px;
+left: 612px;
+top: 3px;
+
+
+  }
+
+
+/*parte dos retangulos*/
+.retangulo1{
+
+    position: absolute;
+    width: 326px;
+    height: 49px;
+    left: 556px;
+    top: 286px;
+    
+    border: 2px solid #BB99DD;
+    border-radius: 4px;
+
+  }
+  .retangulo2{
+
+    position: absolute;
+    width: 326px;
+    height: 49px;
+    left: 556px;
+    top: 351px;
+    
+    border: 2px solid #BB99DD;
+    border-radius: 4px;
+
+  }
+  .retangulo3{
+
+    position: absolute;
+    width: 326px;
+    height: 49px;
+    left: 556px;
+    top: 416px;
+    
+    border: 2px solid #BB99DD;
+    border-radius: 4px;
+
+  }
+  .retangulo4{
+
+    position: absolute;
+    width: 326px;
+    height: 49px;
+    left: 556px;
+    top: 481px;
+    
+    border: 2px solid #BB99DD;
+    border-radius: 4px;
+
+  }
+
+  /*links*/
+  #retangulo1{
+
+    position: absolute;
+width: 47px;
+height: 24px;
+left: 697px;
+top: 286px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+display: flex;
+align-items: center;
+text-align: center;
+text-transform: uppercase;
+text-decoration: none;
+color: #BB99DD;
+
+    
+
+  }
+  #retangulo2{
+
+    position: absolute;
+width: 47px;
+height: 24px;
+left: 697px;
+top: 351px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+display: flex;
+align-items: center;
+text-align: center;
+text-transform: uppercase;
+text-decoration: none;
+color: #BB99DD;
+
+    
+
+  }
+  #retangulo3{
+
+    position: absolute;
+width: 47px;
+height: 24px;
+left: 697px;
+top:416px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+display: flex;
+align-items: center;
+text-align: center;
+text-transform: uppercase;
+text-decoration: none;
+color: #BB99DD;
+
+    
+
+  }
+  #retangulo4{
+
+    position: absolute;
+width: 47px;
+height: 24px;
+left: 697px;
+top: 481px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+display: flex;
+align-items: center;
+text-align: center;
+text-transform: uppercase;
+text-decoration: none;
+color: #BB99DD;
+
+    
+
+  }
+
+  a{
+    text-decoration: none;
+  }
+
+  .insta{
+    position: absolute;
+width: 47px;
+height: 24px;
+left: 680px;
+top: 205px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 300;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+text-align: center;
+
+color: #BB99DD;
+  }
+
+  .retangulo5{
+    position: absolute;
+    display: flex;
+    width: 230px;
+    height: 24px;
+    left: 600px;
+    top: 600px;
+    justify-content: space-around;
+    bottom: 100px;
+  }
